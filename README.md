@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ETL_Project
 Group Projet 2 ETL
 
@@ -16,3 +17,7 @@ Create database connections
 Loaded df’s into database
 Joined tables in ProgreSQL
 
+=======
+# Project_2
+ Measurement of Post Earnings Announcement Drift
+>>>>>>> 6536f1cc71ebbc94df4acb34d8ee75efba4c151b
